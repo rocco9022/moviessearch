@@ -1,0 +1,22 @@
+.div1{
+    position:fixed;
+    bottom:0;
+    z-index:3;
+    height:5vh;
+    color: white;
+    background-color:transparent;
+    align-items:center;
+    display:flex;
+    background-color:rgba(43, 41, 41, 0.33);
+    height: 50px;
+    width: 100%;
+    
+}
+
+.links{
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+}

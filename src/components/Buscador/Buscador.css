@@ -1,0 +1,40 @@
+.cnt {
+    padding-top: 10px;
+}
+.form-container {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.form-container button {
+    margin-left: 20px;
+}
+.label {
+    padding-right: 10px;
+}
+.title{
+    color: white;
+    font-size: 200%;
+}
+.label{
+    color: white
+}
+.linkk{
+    color:white;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttons{
+    background-color:rgb(43, 53, 53);
+    border-radius: 10px;
+    color: white;
+}
+.buttons:hover{
+    background-color: rgb(29, 160, 136);
+    color: white;
+}
+.button:hover{
+background-color:rgb(43, 53, 53);
+color: white;
+}

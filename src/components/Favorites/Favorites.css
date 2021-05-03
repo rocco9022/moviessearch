@@ -1,0 +1,18 @@
+.cnt {
+    padding-top: 10px;
+}
+.favoritas{
+    color: white;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title{
+    color: white;
+}
+.buttonclose{
+    border-radius: 15px;
+}
+.buttonclose:hover{
+    background-color: red;
+
+}
