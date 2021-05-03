@@ -23,7 +23,7 @@ export function addMovieFavorite(payload)  {
 
   export function getMovieDetail(id) {
     return function(dispatch) {
-      return fetch(`https://www.omdbapi.com/?apikey=${process.env.REACT_APP_MOVIES_API_KEY}=`+ id)
+      return fetch(`https://www.omdbapi.com/?apikey=${process.env.REACT_APP_MOVIES_API_KEY1}=`+ id)
         .then(response => response.json())
         .then(json => {
           dispatch({ type: "GET_MOVIE_DETAIL", payload: json });
