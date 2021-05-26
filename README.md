@@ -3,7 +3,7 @@
 🔭 It is an application for search all the movies in the world. 
 You are going to find your favorites titles as a Terminator or Back To the future witch are the two that I saw the most in my life.
 
-# Instalaction:
+# Instalation:
 📝 Do a npm install to view the application.
 
 # Technologies used:
